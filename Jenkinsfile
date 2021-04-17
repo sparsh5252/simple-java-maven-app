@@ -7,12 +7,12 @@ pipeline {
         stage('Build'){
             
             agent {
-                label "myslavemaven"
+                label "J2.0-dynamicSlave"
             }
           
           steps {
              
-                echo "my master branch"
+                echo "Sparsh master branch"
           }
         }
    }

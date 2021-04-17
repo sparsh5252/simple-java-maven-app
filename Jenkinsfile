@@ -13,7 +13,7 @@ pipeline {
           steps {
              
                 echo "Sparsh master branch...2nd time"
-                echo "Webhook added"
+                echo "Webhook check 2nd time"
           }
         }
    }

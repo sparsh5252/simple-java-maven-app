@@ -12,7 +12,7 @@ pipeline {
           
           steps {
              
-                echo "Sparsh master branch"
+                echo "Sparsh master branch...2nd time"
           }
         }
    }
